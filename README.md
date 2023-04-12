@@ -47,7 +47,7 @@ The red spheres above cars represent the (x,y) lidar detection and the purple li
 2. Make a build directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
 4. Run it: `./ukf_highway`
-
+<!---
 ## Editor Settings
 
 We've purposefully kept editor configuration files out of this repo in order to
@@ -74,3 +74,4 @@ and performing clustering. This is similar to what was done in Sensor Fusion Lid
 This information is only accessible by people who are already enrolled in Sensor Fusion. 
 If you are enrolled, see the project page in the classroom
 for instructions and the project rubric.
+-->
