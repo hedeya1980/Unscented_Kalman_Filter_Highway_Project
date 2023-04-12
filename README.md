@@ -17,7 +17,7 @@ The main program can be built and ran by doing the following from the project to
 The programs I wrote to accomplish the project are src/ukf.cpp, and src/ukf.h
 
 <!---<img src="media/ukf_highway.png" width="700" height="400" />-->
-<img src="https://github.com/hedeya1980/Unscented_Kalman_Filter_Highway_Project/raw/main/ukf_highway.gif" width="700" height="400" />
+<img src="https://github.com/hedeya1980/Unscented_Kalman_Filter_Highway_Project/raw/main/ukf_highway.gif"/>
 
 `main.cpp` is using `highway.h` to create a straight 3 lane highway environment with 3 traffic cars and the main ego car at the center. 
 The viewer scene is centered around the ego car and the coordinate system is relative to the ego car as well. The ego car is green while the 
