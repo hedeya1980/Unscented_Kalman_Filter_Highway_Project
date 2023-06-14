@@ -4,7 +4,7 @@ Sensor Fusion UKF Highway Project Starter Code
 <img src="media/ukf_highway_tracked.gif" width="700" height="400" />
 
 In this project I implemented an Unscented Kalman Filter to estimate the state of multiple cars on a highway using noisy lidar and radar measurements. 
-My px, py, vx, and vy RMSE should be less than or equal to the values [0.30, 0.16, 0.95, 0.70] after the simulator has ran for longer than 1 second, which is a requirment for passing the project.
+My px, py, vx, and vy RMSE should be less than or equal to the values [0.30, 0.16, 0.95, 0.70] after the simulator has run for longer than 1 second, which is a requirement for passing the project.
 
 The main program can be built and ran by doing the following from the project top directory.
 
